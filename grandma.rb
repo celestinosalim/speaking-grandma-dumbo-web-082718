@@ -6,6 +6,6 @@ elsif speak_to_grandma == 'Hi Nana, how are you?' || speak_to_grandma == 'Hi!' |
    puts 'HUH?! SPEAK UP, SONNY!'
 elsif speak_to_grandma == 'WHAT DID YOU EAT TODAY?' || speak_to_grandma == 'WHAT?'
    puts "NO, NOT SINCE 1938!"
-else return 'I LOVE YOU GRANDMA!'
+else puts 'I LOVE YOU GRANDMA!'
 
 end
